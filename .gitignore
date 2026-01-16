@@ -2,6 +2,8 @@
 .vscode/
 # Python 相关产物文件
 *.pth
+*.mp4
+*.png
 # Python 项目 egg-info 目录
 cotracker.egg-info/
 # 演示相关目录
