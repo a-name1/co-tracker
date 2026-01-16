@@ -1,0 +1,3 @@
+# 训练依赖
+accelerate>=0.20.0
+kubric>=0.0.11

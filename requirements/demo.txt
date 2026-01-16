@@ -1,0 +1,3 @@
+# 演示依赖
+gradio>=4.0.0
+matplotlib>=3.7.0
